@@ -1,5 +1,4 @@
-# D3js tweaks source from Jason Davis and ben stancil repo
-# this is specifically for Mode analytics visualization
+# ben stancil code tweak
 
 <div class="mode-header embed-hidden">
   <h1>{{trial3}}</h1>
