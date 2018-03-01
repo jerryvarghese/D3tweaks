@@ -1,4 +1,5 @@
 # D3js tweaks source from Jason Davis repo
+# this is specifically for Mode analytics visualization
 <div class="mode-header embed-hidden">
   <h1>{{trial3}}</h1>
   <p>{{ description }}</p>
